@@ -8,7 +8,7 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class KennelTest {
-/*
+
     Kennel kennel = new Kennel();
 
     @BeforeEach
@@ -61,5 +61,5 @@ public class KennelTest {
         kennel.playWith("Zokni", 2);
 
         assertEquals(List.of("Bigli", "Morzsi"), kennel.getHappyDogNames(7));
-    }*/
+    }
 }
